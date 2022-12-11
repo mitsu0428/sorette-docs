@@ -1,2 +1,3 @@
-# sorette-docs
-soretteについて
+# soretteについてのドキュメント
+## soretteWebについて
+[サービスのURL](https://sorette.jp)
